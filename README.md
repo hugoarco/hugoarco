@@ -15,19 +15,6 @@
 <p align="center">
   <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugoarco&theme=github_dark" />
 </p>
-<table style="width:100%">
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=ZZYZ0zEHfPw&t=279s&ab_channel=Marhuire%E2%99%AA">
-        <img src="https://i.ytimg.com/vi/ZZYZ0zEHfPw/maxresdefault.jpg" width="100%">
-      </a>
-    </td>
-    <td>
-      <!-- Aquí puedes poner texto o otra imagen -->
-      Texto o contenido aquí
-    </td>
-  </tr>
-</table>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">  
