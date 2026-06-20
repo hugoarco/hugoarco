@@ -28,7 +28,7 @@
     <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
     <a href="https://www.instagram.com//" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
     <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0A0A0B?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" /></a>
-  <a href="https://www.youtube.com/@HugoInformatic" target="_blank">
+  <a href="https://www.youtube.com/HugoInformatic" target="_blank">
   <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&style=for-the-badge&logoColor=white" alt="YouTube Badge" />
 </a>
     <a href="mailto:hugoultecno@gmail.com" target="_blank">
