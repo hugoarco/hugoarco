@@ -64,7 +64,7 @@
 **![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)**
 
 
-
+![Snake animation](https://raw.githubusercontent.com/hugoarco/hugoarco/output/github-contribution-grid-snake.svg)
 
 
 ## 📫 Contacto
