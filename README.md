@@ -1,8 +1,8 @@
 HOLA SOY HUGO 👋!
 <hr>
-<h3>Estudiante de Sistemas Microinformáticos y Redes (SMR)</h1>
-<h1> 💻 Apasionado por el hardware, las redes y el desarrollo web y la administración de sistemas</h1>
-<h1>Resolutivo y siempre en constante aprendizaje</h1>
+🧑‍🎓 Estudiante de Sistemas Microinformáticos y Redes (SMR)
+🖥️ Apasionado por el hardware, las redes y el desarrollo web y la administración de sistemas
+🚀 Resolutivo y siempre en constante aprendizaje
 
 ## HABILIDADES
 
