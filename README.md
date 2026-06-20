@@ -8,13 +8,20 @@
 <br>
 <br>
 
-
+  
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 <h1 align="center">Github Metrics</h1>
 
 <p align="center">
   <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugoarco&theme=github_dark" />
 </p>
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hugoarco&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Hugo Arco github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoarco&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div>
 
 ## HABILIDADES
 
@@ -64,7 +71,7 @@
 **![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)**
 
 
-![Snake animation](https://raw.githubusercontent.com/hugoarco/hugoarco/output/github-contribution-grid-snake.svg)
+
 
 
 ## 📫 Contacto
