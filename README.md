@@ -1,5 +1,5 @@
 👋 Hola, soy estudiante de SMR
-
+<hr>
 🎓 Estudiante de Sistemas Microinformáticos y Redes (SMR)
 
 💻 Apasionado por el hardware, las redes y el desarrollo web
