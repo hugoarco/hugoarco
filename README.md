@@ -36,10 +36,9 @@
   <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&style=for-the-badge&logoColor=white" alt="YouTube Badge" />
 </a> 
   
-    <a href="mailto:hugoultecno@gmail.com" target="_blank">
+<a href="mailto:hugoultecno@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&style=for-the-badge&logoColor=white" alt="Gmail Badge" />
-  </a>
-  <p/>
+</a>
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
   <h1 align="center">HABILIDADES</h1>
