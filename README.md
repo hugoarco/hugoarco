@@ -91,7 +91,27 @@
 
 
 
-
-## 📫 Contacto
-
-hugoultecno@gmail.com
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "name": "Valladolid"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-4.85, 41.60],
+            [-4.60, 41.60],
+            [-4.60, 41.70],
+            [-4.85, 41.70],
+            [-4.85, 41.60]
+          ]
+        ]
+      }
+    }
+  ]
+}
