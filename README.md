@@ -43,9 +43,11 @@
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
   <h1 align="center">HABILIDADES</h1>
 
-  <h1 align="center">DESARROLLO WEB </h1>
+  <h1 align="center">DESARROLLO WEB 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+
+</h1>
 
   <h1 align="center">OFIMATICA </h1>
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
