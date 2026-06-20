@@ -89,28 +89,5 @@
 **![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)**
 
 
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-50, -20.9],
-            [-48.9, -20.9],
-            [-48.9, -20.9],
-            [-50, -20.9],
-            [-50, -20.9]
-          ]
-        ]
-      }
-    }
-  ]
-}
