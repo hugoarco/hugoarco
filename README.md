@@ -90,27 +90,29 @@
 
 
 
-
+ ```geojson
 {
   "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
+      "id": 1,
       "properties": {
-        "name": "Valladolid"
+        "ID": 0
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
-            [-4.74, 41.64],
-            [-4.65, 41.64],
-            [-4.65, 41.69],
-            [-4.74, 41.69],
-            [-4.74, 41.64]
+              [-50,-20.9],
+              [-48.9,-20.9],
+              [-48.9,-20.9],
+              [-50,-20.9],
+              [-50,-20.9]
           ]
         ]
       }
     }
   ]
+}
 }
