@@ -90,4 +90,4 @@
 ![GitHub Followers](https://img.shields.io/github/followers/hugoarco?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/hugoarco?style=social)
 
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
+![snake gif](https://github.com/YOUR_USERNAME/hugoarco/blob/output/github-snake-dark.svg)
