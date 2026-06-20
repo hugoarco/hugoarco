@@ -2,8 +2,8 @@
 
 🧑‍🎓 Estudiante de Sistemas Microinformáticos y Redes (SMR)
 <br>
-
 🖥️ Apasionado por el hardware, las redes y el desarrollo web y la administración de sistemas
+<br>
 🚀 Resolutivo y siempre en constante aprendizaje
 
 ## HABILIDADES
