@@ -15,15 +15,20 @@
 <p align="center">
   <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugoarco&theme=github_dark" />
 </p>
-
 <table style="width:100%">
-<tr>
-<td>
-<a href="https://www.youtube.com/watch?v=ZZYZ0zEHfPw&t=279s&ab_channel=Marhuire%E2%99%AA">
-<img src="https://i.ytimg.com/vi/ZZYZ0zEHfPw/maxresdefault.jpg">
-</a>
-</td>
-<td>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=ZZYZ0zEHfPw&t=279s&ab_channel=Marhuire%E2%99%AA">
+        <img src="https://i.ytimg.com/vi/ZZYZ0zEHfPw/maxresdefault.jpg" width="100%">
+      </a>
+    </td>
+    <td>
+      <!-- Aquí puedes poner texto o otra imagen -->
+      Texto o contenido aquí
+    </td>
+  </tr>
+</table>
+
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hugoarco&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Hugo Arco github stats" /> 
