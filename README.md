@@ -90,14 +90,8 @@
 
 
 ![](https://raw.githubusercontent.com/hugoarco/hugoarco/output/github-contribution-grid-snake.svg)
+![GitHub Followers](https://img.shields.io/github/followers/hugoarco?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/hugoarco?style=social)
 
-![GitHub Followers](https://img.shields.io/github/followers/bastndev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/bastndev?style=social)
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
-<br>
-</div>
 
 
