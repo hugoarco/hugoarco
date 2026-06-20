@@ -1,5 +1,5 @@
-HOLA SOY HUGO 👋!
-<hr>
+## HOLA SOY HUGO 👋
+
 🧑‍🎓 Estudiante de Sistemas Microinformáticos y Redes (SMR)
 🖥️ Apasionado por el hardware, las redes y el desarrollo web y la administración de sistemas
 🚀 Resolutivo y siempre en constante aprendizaje
