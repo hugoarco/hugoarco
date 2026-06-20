@@ -90,4 +90,4 @@
 ![GitHub Followers](https://img.shields.io/github/followers/hugoarco?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/hugoarco?style=social)
 
-![snake gif](https://github.com/YOUR_USERNAME/hugoarco/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/hugoarco/hugoarco/blob/output/github-snake-dark.svg)
