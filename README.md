@@ -10,14 +10,15 @@
 
 <h1 align="center">📊 GitHub Metrics</h1>
 
+<!-- ESTADÍSTICAS GENERALES -->
 <p align="center">
-  <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugoarco&theme=github_dark" />
+  <img width="725em" src="https://github-readme-stats.vercel.app/api?username=hugoarco&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </p>
 
-<div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoarco&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</div>
-
+<!-- LENGUAJES MÁS USADOS -->
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoarco&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</p>
 ---
 
 <h1 align="center">📫 Contacto</h1>
