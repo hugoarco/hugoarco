@@ -3,7 +3,7 @@
 </h1>
 
 🧑‍🎓 Estudiante de Sistemas Microinformáticos y Redes (SMR)  
-🖥️ Apasionado por el hardware, las redes, el desarrollo web y la administración de sistemas  
+🖥️ Apasionado por el hardware, las redes y la administración de sistemas  
 🚀 Resolutivo y siempre en constante aprendizaje  
 
 ---
